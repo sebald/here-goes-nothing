@@ -1,24 +1,22 @@
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-theme-blog`,
-      options: {},
+      resolve: 'gatsby-theme-blog',
+      options: {
+        webfontURL: 'https://fonts.googleapis.com/css2?family=Inter',
+      },
     },
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: 'Here goes Nothing',
+    author: 'Sebastian',
+    description: '#learninpublic',
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        name: 'github',
+        url: 'https://github.com/sebald',
       },
     ],
   },
-}
+};
