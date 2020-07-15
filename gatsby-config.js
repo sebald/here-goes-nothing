@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/here-goes-nothing',
   plugins: [
     {
       resolve: 'gatsby-theme-blog',
