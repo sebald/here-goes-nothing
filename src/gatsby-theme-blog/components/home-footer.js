@@ -11,6 +11,14 @@ const Footer = () => (
     © {new Date().getFullYear()}, Powered by
     {` `}
     <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
+    <> / </>
+    <Styled.a
+      href="https://github.com/sebald/here-goes-nothing"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Site Source
+    </Styled.a>
   </footer>
 );
 

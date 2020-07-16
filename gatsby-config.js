@@ -13,11 +13,5 @@ module.exports = {
     title: 'Here goes Nothing',
     author: 'Sebastian',
     description: '#learninpublic',
-    social: [
-      {
-        name: 'github',
-        url: 'https://github.com/sebald',
-      },
-    ],
   },
 };
