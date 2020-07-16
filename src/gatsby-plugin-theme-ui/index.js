@@ -7,7 +7,11 @@ const yellow = '#fff685';
 const blue = '#0049b7';
 const blueAccent = '00ddff';
 
-const styles = {};
+const styles = {
+  root: {
+    lineHeight: 1.6,
+  },
+};
 
 export default {
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512],
