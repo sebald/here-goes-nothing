@@ -6,7 +6,7 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean && rm -rf node_modules"
   },
   "license": "0BSD",
   "dependencies": {
