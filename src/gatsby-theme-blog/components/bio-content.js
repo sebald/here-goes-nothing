@@ -1,12 +1,7 @@
 import React from 'react';
 
 export default function Bio() {
-  return (
-    <>
-      <strong></strong>
-      <br />A blog about failing to move plastic space ships around a table.
-    </>
-  );
+  return <>A blog about failing to move plastic space ships around a table.</>;
 }
 
 /*
