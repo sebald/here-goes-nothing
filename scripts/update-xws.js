@@ -82,7 +82,13 @@ const upgrades = manifest.upgrades
     id: xws,
     name,
     image: sides[0].image,
-  }));
+  }))
+  .reduce((o, upgrade) => {
+    o[upgrade.id] = {
+      ...upgrade,
+    };
+    return o;
+  }, {});
 
 // Write to file
 // ---------------
