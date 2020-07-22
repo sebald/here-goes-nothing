@@ -16,6 +16,7 @@ const Header = ({ children }) => (
       mt: 0,
       mb: 3,
       fontSize: 4,
+      color: 'text',
       color: 'primary',
       lineHeight: 1,
     })}
