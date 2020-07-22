@@ -1,6 +1,9 @@
 const white = '#fefefe';
 const black = '#2a2a2a';
 
+const blank = '#fff';
+const grey = '#6f6f6f';
+
 const red = '#ff1d58';
 const redAccent = '#f75990';
 const yellow = '#fff685';
@@ -18,6 +21,8 @@ export default {
   colors: {
     white,
     black,
+    blank,
+    grey,
 
     text: black,
     heading: blue,
@@ -33,5 +38,14 @@ export default {
     body: 'Inter, system-ui, sans-serif',
     monospace: 'Menlo, monospace',
   },
+  shadows: {
+    none: 0,
+    regular: '0 7px 30px -10px rgba(150,170,180,0.5)',
+  },
+  border: {
+    none: 0,
+    soft: '1px solid rgba(150,170,180,0.1)',
+  },
+  radii: [0, 2, 4],
   styles,
 };

@@ -48,12 +48,13 @@ const transformPilotsData = pilots =>
  * ```
  */
 const getShipsByFaction = faction => {
-  const files = manifest.pilots.find(item => item.faction === faction).ships;
-  return files.reduce((o, file) => {
-    const { xws: id, name, pilots } = readXWSData(file);
+  const ships = manifest.pilots.find(item => item.faction === faction).ships;
+  return ships.reduce((o, ship) => {
+    const { xws: id, name, icon, pilots } = readXWSData(ship);
     o[id] = {
       id,
       name,
+      icon,
       pilots: transformPilotsData(pilots),
     };
     return o;

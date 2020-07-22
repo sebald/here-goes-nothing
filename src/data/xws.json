@@ -8,6 +8,7 @@
 				"asf01bwing": {
 					"id": "asf01bwing",
 					"name": "A/SF-01 B-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_B-wing.png",
 					"pilots": {
 						"bladesquadronveteran": {
 							"id": "bladesquadronveteran",
@@ -39,6 +40,7 @@
 				"arc170starfighter": {
 					"id": "arc170starfighter",
 					"name": "ARC-170 Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Arc-170.png",
 					"pilots": {
 						"garvendreis": {
 							"id": "garvendreis",
@@ -65,6 +67,7 @@
 				"attackshuttle": {
 					"id": "attackshuttle",
 					"name": "Attack Shuttle",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_AttackShuttle.png",
 					"pilots": {
 						"zeborrelios": {
 							"id": "zeborrelios",
@@ -91,6 +94,7 @@
 				"auzituckgunship": {
 					"id": "auzituckgunship",
 					"name": "Auzituck Gunship",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Auzituck.png",
 					"pilots": {
 						"kashyyykdefender": {
 							"id": "kashyyykdefender",
@@ -112,6 +116,7 @@
 				"btla4ywing": {
 					"id": "btla4ywing",
 					"name": "BTL-A4 Y-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Y-wing.png",
 					"pilots": {
 						"dutchvander": {
 							"id": "dutchvander",
@@ -148,6 +153,7 @@
 				"btls8kwing": {
 					"id": "btls8kwing",
 					"name": "BTL-S8 K-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_K-wing.png",
 					"pilots": {
 						"esegetuketu": {
 							"id": "esegetuketu",
@@ -169,6 +175,7 @@
 				"ewing": {
 					"id": "ewing",
 					"name": "E-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_E-wing.png",
 					"pilots": {
 						"corranhorn": {
 							"id": "corranhorn",
@@ -195,6 +202,7 @@
 				"hwk290lightfreighter": {
 					"id": "hwk290lightfreighter",
 					"name": "HWK-290 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_HWK-290.png",
 					"pilots": {
 						"janors": {
 							"id": "janors",
@@ -221,6 +229,7 @@
 				"modifiedyt1300lightfreighter": {
 					"id": "modifiedyt1300lightfreighter",
 					"name": "Modified YT-1300 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Falcon.png",
 					"pilots": {
 						"chewbacca": {
 							"id": "chewbacca",
@@ -252,6 +261,7 @@
 				"rz1awing": {
 					"id": "rz1awing",
 					"name": "RZ-1 A-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_A-wing.png",
 					"pilots": {
 						"arvelcrynyd": {
 							"id": "arvelcrynyd",
@@ -278,6 +288,7 @@
 				"sheathipedeclassshuttle": {
 					"id": "sheathipedeclassshuttle",
 					"name": "Sheathipede-class Shuttle",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Sheathipede.png",
 					"pilots": {
 						"zeborrelios-sheathipedeclassshuttle": {
 							"id": "zeborrelios-sheathipedeclassshuttle",
@@ -304,6 +315,7 @@
 				"t65xwing": {
 					"id": "t65xwing",
 					"name": "T-65 X-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_X-wing-T65.png",
 					"pilots": {
 						"biggsdarklighter": {
 							"id": "biggsdarklighter",
@@ -370,6 +382,7 @@
 				"tielnfighter": {
 					"id": "tielnfighter",
 					"name": "TIE/ln Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEFighter.png",
 					"pilots": {
 						"zeborrelios-tielnfighter": {
 							"id": "zeborrelios-tielnfighter",
@@ -396,6 +409,7 @@
 				"ut60duwing": {
 					"id": "ut60duwing",
 					"name": "UT-60D U-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_U-wing.png",
 					"pilots": {
 						"benthictwotubes": {
 							"id": "benthictwotubes",
@@ -447,6 +461,7 @@
 				"vcx100lightfreighter": {
 					"id": "vcx100lightfreighter",
 					"name": "VCX-100 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Ghost.png",
 					"pilots": {
 						"chopper": {
 							"id": "chopper",
@@ -478,6 +493,7 @@
 				"yt2400lightfreighter": {
 					"id": "yt2400lightfreighter",
 					"name": "YT-2400 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_YT-2400.png",
 					"pilots": {
 						"leebo": {
 							"id": "leebo",
@@ -499,6 +515,7 @@
 				"z95af4headhunter": {
 					"id": "z95af4headhunter",
 					"name": "Z-95-AF4 Headhunter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Z-95.png",
 					"pilots": {
 						"airencracken": {
 							"id": "airencracken",
@@ -532,6 +549,7 @@
 				"alphaclassstarwing": {
 					"id": "alphaclassstarwing",
 					"name": "Alpha-class Star Wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_AlphaStarwing.png",
 					"pilots": {
 						"lieutenantkarsabi": {
 							"id": "lieutenantkarsabi",
@@ -558,6 +576,7 @@
 				"lambdaclasst4ashuttle": {
 					"id": "lambdaclasst4ashuttle",
 					"name": "Lambda-class T-4a Shuttle",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Lambda.png",
 					"pilots": {
 						"captainkagi": {
 							"id": "captainkagi",
@@ -584,6 +603,7 @@
 				"tieadvancedv1": {
 					"id": "tieadvancedv1",
 					"name": "TIE Advanced v1",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEAdvancedPrototype.png",
 					"pilots": {
 						"baronoftheempire": {
 							"id": "baronoftheempire",
@@ -615,6 +635,7 @@
 				"tieadvancedx1": {
 					"id": "tieadvancedx1",
 					"name": "TIE Advanced x1",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEAdvanced.png",
 					"pilots": {
 						"darthvader": {
 							"id": "darthvader",
@@ -651,6 +672,7 @@
 				"tieininterceptor": {
 					"id": "tieininterceptor",
 					"name": "TIE/in Interceptor",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEInterceptor.png",
 					"pilots": {
 						"alphasquadronpilot": {
 							"id": "alphasquadronpilot",
@@ -677,6 +699,7 @@
 				"tiereaper": {
 					"id": "tiereaper",
 					"name": "TIE Reaper",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEReaper.png",
 					"pilots": {
 						"vizier": {
 							"id": "vizier",
@@ -703,6 +726,7 @@
 				"tieddefender": {
 					"id": "tieddefender",
 					"name": "TIE/D Defender",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEDefender.png",
 					"pilots": {
 						"colonelvessery": {
 							"id": "colonelvessery",
@@ -734,6 +758,7 @@
 				"tieagaggressor": {
 					"id": "tieagaggressor",
 					"name": "TIE/ag Aggressor",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEAggressor.png",
 					"pilots": {
 						"doubleedge": {
 							"id": "doubleedge",
@@ -760,6 +785,7 @@
 				"tiecapunisher": {
 					"id": "tiecapunisher",
 					"name": "TIE/ca Punisher",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEPunisher.png",
 					"pilots": {
 						"deathrain": {
 							"id": "deathrain",
@@ -781,6 +807,7 @@
 				"tielnfighter": {
 					"id": "tielnfighter",
 					"name": "TIE/ln Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEFighter.png",
 					"pilots": {
 						"howlrunner": {
 							"id": "howlrunner",
@@ -852,6 +879,7 @@
 				"tiephphantom": {
 					"id": "tiephphantom",
 					"name": "TIE/ph Phantom",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEPhantom.png",
 					"pilots": {
 						"echo": {
 							"id": "echo",
@@ -878,6 +906,7 @@
 				"tiesabomber": {
 					"id": "tiesabomber",
 					"name": "TIE/sa Bomber",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEBomber.png",
 					"pilots": {
 						"deathfire": {
 							"id": "deathfire",
@@ -914,6 +943,7 @@
 				"tieskstriker": {
 					"id": "tieskstriker",
 					"name": "TIE/sk Striker",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEStriker.png",
 					"pilots": {
 						"countdown": {
 							"id": "countdown",
@@ -950,6 +980,7 @@
 				"vt49decimator": {
 					"id": "vt49decimator",
 					"name": "VT-49 Decimator",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Decimator.png",
 					"pilots": {
 						"captainoicunn": {
 							"id": "captainoicunn",
@@ -983,6 +1014,7 @@
 				"aggressorassaultfighter": {
 					"id": "aggressorassaultfighter",
 					"name": "Aggressor Assault Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_IG-2000.png",
 					"pilots": {
 						"ig88a": {
 							"id": "ig88a",
@@ -1009,6 +1041,7 @@
 				"btla4ywing": {
 					"id": "btla4ywing",
 					"name": "BTL-A4 Y-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Y-wing.png",
 					"pilots": {
 						"crymorahgoon": {
 							"id": "crymorahgoon",
@@ -1035,6 +1068,7 @@
 				"customizedyt1300lightfreighter": {
 					"id": "customizedyt1300lightfreighter",
 					"name": "Customized YT-1300 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_CustomizedYT-1300.png",
 					"pilots": {
 						"freightercaptain": {
 							"id": "freightercaptain",
@@ -1061,6 +1095,7 @@
 				"escapecraft": {
 					"id": "escapecraft",
 					"name": "Escape Craft",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_EscapeShuttle.png",
 					"pilots": {
 						"autopilotdrone": {
 							"id": "autopilotdrone",
@@ -1087,6 +1122,7 @@
 				"fangfighter": {
 					"id": "fangfighter",
 					"name": "Fang Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_FangFighter.png",
 					"pilots": {
 						"fennrau": {
 							"id": "fennrau",
@@ -1123,6 +1159,7 @@
 				"firesprayclasspatrolcraft": {
 					"id": "firesprayclasspatrolcraft",
 					"name": "Firespray-class Patrol Craft",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_FIrespray.png",
 					"pilots": {
 						"bobafett": {
 							"id": "bobafett",
@@ -1159,6 +1196,7 @@
 				"g1astarfighter": {
 					"id": "g1astarfighter",
 					"name": "G-1A Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_MistHunter.png",
 					"pilots": {
 						"4lom": {
 							"id": "4lom",
@@ -1180,6 +1218,7 @@
 				"hwk290lightfreighter": {
 					"id": "hwk290lightfreighter",
 					"name": "HWK-290 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_HWK-290.png",
 					"pilots": {
 						"dacebonearm": {
 							"id": "dacebonearm",
@@ -1206,6 +1245,7 @@
 				"jumpmaster5000": {
 					"id": "jumpmaster5000",
 					"name": "JumpMaster 5000",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Jumpmaster.png",
 					"pilots": {
 						"contractedscout": {
 							"id": "contractedscout",
@@ -1237,6 +1277,7 @@
 				"kihraxzfighter": {
 					"id": "kihraxzfighter",
 					"name": "Kihraxz Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Kihraxz.png",
 					"pilots": {
 						"blacksunace": {
 							"id": "blacksunace",
@@ -1273,6 +1314,7 @@
 				"lancerclasspursuitcraft": {
 					"id": "lancerclasspursuitcraft",
 					"name": "Lancer-class Pursuit Craft",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_ShadowCaster.png",
 					"pilots": {
 						"asajjventress": {
 							"id": "asajjventress",
@@ -1299,6 +1341,7 @@
 				"m12lkimogilafighter": {
 					"id": "m12lkimogilafighter",
 					"name": "M12-L Kimogila Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Kimogila.png",
 					"pilots": {
 						"cartelexecutioner": {
 							"id": "cartelexecutioner",
@@ -1320,6 +1363,7 @@
 				"m3ainterceptor": {
 					"id": "m3ainterceptor",
 					"name": "M3-A Interceptor",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Scyk.png",
 					"pilots": {
 						"cartelspacer": {
 							"id": "cartelspacer",
@@ -1371,6 +1415,7 @@
 				"modifiedtielnfighter": {
 					"id": "modifiedtielnfighter",
 					"name": "Modified TIE/ln Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_MiningGuild_TIE.png",
 					"pilots": {
 						"ahhav": {
 							"id": "ahhav",
@@ -1407,6 +1452,7 @@
 				"quadrijettransferspacetug": {
 					"id": "quadrijettransferspacetug",
 					"name": "Quadrijet Transfer Spacetug",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Quadjumper.png",
 					"pilots": {
 						"constablezuvio": {
 							"id": "constablezuvio",
@@ -1433,6 +1479,7 @@
 				"scurrgh6bomber": {
 					"id": "scurrgh6bomber",
 					"name": "Scurrg H-6 bomber",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Scurrg.png",
 					"pilots": {
 						"captainnym": {
 							"id": "captainnym",
@@ -1454,6 +1501,7 @@
 				"starviperclassattackplatform": {
 					"id": "starviperclassattackplatform",
 					"name": "StarViper-class Attack Platform",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_StarViper.png",
 					"pilots": {
 						"blacksunassassin": {
 							"id": "blacksunassassin",
@@ -1485,6 +1533,7 @@
 				"yv666lightfreighter": {
 					"id": "yv666lightfreighter",
 					"name": "YV-666 Light Freighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_YV-666.png",
 					"pilots": {
 						"bossk": {
 							"id": "bossk",
@@ -1511,6 +1560,7 @@
 				"z95af4headhunter": {
 					"id": "z95af4headhunter",
 					"name": "Z-95-AF4 Headhunter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Z-95.png",
 					"pilots": {
 						"binayrepirate": {
 							"id": "binayrepirate",
@@ -1554,6 +1604,7 @@
 				"mg100starfortress": {
 					"id": "mg100starfortress",
 					"name": "MG-100 StarFortress",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_StarFortress.png",
 					"pilots": {
 						"cobaltsquadronbomber": {
 							"id": "cobaltsquadronbomber",
@@ -1595,6 +1646,7 @@
 				"scavengedyt1300": {
 					"id": "scavengedyt1300",
 					"name": "Scavenged YT-1300",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Falcon_Resistance.png",
 					"pilots": {
 						"resistancesympathizer": {
 							"id": "resistancesympathizer",
@@ -1621,6 +1673,7 @@
 				"rz2awing": {
 					"id": "rz2awing",
 					"name": "RZ-2 A-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_RZ-2_A-wing.png",
 					"pilots": {
 						"lulolampar": {
 							"id": "lulolampar",
@@ -1667,6 +1720,7 @@
 				"t70xwing": {
 					"id": "t70xwing",
 					"name": "T-70 X-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_X-wing-T70.png",
 					"pilots": {
 						"poedameron": {
 							"id": "poedameron",
@@ -1733,6 +1787,7 @@
 				"resistancetransport": {
 					"id": "resistancetransport",
 					"name": "Resistance Transport",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Resistance_Transport.png",
 					"pilots": {
 						"covanell": {
 							"id": "covanell",
@@ -1759,6 +1814,7 @@
 				"resistancetransportpod": {
 					"id": "resistancetransportpod",
 					"name": "Resistance Transport Pod",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Resistance_Transport_Cockpit_Pod.png",
 					"pilots": {
 						"bb8": {
 							"id": "bb8",
@@ -1785,6 +1841,7 @@
 				"fireball": {
 					"id": "fireball",
 					"name": "Fireball",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Fireball.png",
 					"pilots": {
 						"colossusstationmechanic": {
 							"id": "colossusstationmechanic",
@@ -1818,6 +1875,7 @@
 				"tiebainterceptor": {
 					"id": "tiebainterceptor",
 					"name": "TIE/ba Interceptor",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Vonregs-First-Order-TIE-Interceptor.png",
 					"pilots": {
 						"majorvonreg": {
 							"id": "majorvonreg",
@@ -1844,6 +1902,7 @@
 				"tiefofighter": {
 					"id": "tiefofighter",
 					"name": "TIE/fo Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEfo.png",
 					"pilots": {
 						"midnight": {
 							"id": "midnight",
@@ -1910,6 +1969,7 @@
 				"tiesffighter": {
 					"id": "tiesffighter",
 					"name": "TIE/sf Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIEsf.png",
 					"pilots": {
 						"quickdraw": {
 							"id": "quickdraw",
@@ -1946,6 +2006,7 @@
 				"tievnsilencer": {
 					"id": "tievnsilencer",
 					"name": "TIE/vn Silencer",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_TIESilencer.png",
 					"pilots": {
 						"blackout": {
 							"id": "blackout",
@@ -1987,6 +2048,7 @@
 				"upsilonclassshuttle": {
 					"id": "upsilonclassshuttle",
 					"name": "Upsilon-class command shuttle",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_UpsilonShuttle.png",
 					"pilots": {
 						"lieutenantdormitz": {
 							"id": "lieutenantdormitz",
@@ -2030,6 +2092,7 @@
 				"arc170starfighter": {
 					"id": "arc170starfighter",
 					"name": "ARC-170 Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Arc-170.png",
 					"pilots": {
 						"sinker": {
 							"id": "sinker",
@@ -2066,6 +2129,7 @@
 				"delta7aethersprite": {
 					"id": "delta7aethersprite",
 					"name": "Delta-7 Aethersprite",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Delta-7.png",
 					"pilots": {
 						"jediknight": {
 							"id": "jediknight",
@@ -2117,6 +2181,7 @@
 				"v19torrentstarfighter": {
 					"id": "v19torrentstarfighter",
 					"name": "V-19 Torrent Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_V-19Torrent.png",
 					"pilots": {
 						"kickback": {
 							"id": "kickback",
@@ -2158,6 +2223,7 @@
 				"nabooroyaln1starfighter": {
 					"id": "nabooroyaln1starfighter",
 					"name": "Naboo Royal N-1 Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Royal_Naboo_N-1_Starfighter.png",
 					"pilots": {
 						"anakinskywalker-nabooroyaln1starfighter": {
 							"id": "anakinskywalker-nabooroyaln1starfighter",
@@ -2194,6 +2260,7 @@
 				"btlbywing": {
 					"id": "btlbywing",
 					"name": "BTL-B Y-wing",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_BTL-B_Ywing.png",
 					"pilots": {
 						"shadowsquadronveteran": {
 							"id": "shadowsquadronveteran",
@@ -2247,6 +2314,7 @@
 				"vultureclassdroidfighter": {
 					"id": "vultureclassdroidfighter",
 					"name": "Vulture-class Droid Fighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_VultureDroid.png",
 					"pilots": {
 						"tradefederationdrone": {
 							"id": "tradefederationdrone",
@@ -2283,6 +2351,7 @@
 				"belbullab22starfighter": {
 					"id": "belbullab22starfighter",
 					"name": "Belbullab-22 Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Belbullab-22.png",
 					"pilots": {
 						"generalgrievous": {
 							"id": "generalgrievous",
@@ -2314,6 +2383,7 @@
 				"sithinfiltrator": {
 					"id": "sithinfiltrator",
 					"name": "Sith Infiltrator",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_SithInfiltrator.png",
 					"pilots": {
 						"darthmaul": {
 							"id": "darthmaul",
@@ -2340,6 +2410,7 @@
 				"hyenaclassdroidbomber": {
 					"id": "hyenaclassdroidbomber",
 					"name": "Hyena-class Droid Bomber",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Hyena.png",
 					"pilots": {
 						"technounionbomber": {
 							"id": "technounionbomber",
@@ -2376,6 +2447,7 @@
 				"nantexclassstarfighter": {
 					"id": "nantexclassstarfighter",
 					"name": "Nantex-class Starfighter",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_Nantex_Class_Starfighter.png",
 					"pilots": {
 						"stalgasinhiveguard": {
 							"id": "stalgasinhiveguard",

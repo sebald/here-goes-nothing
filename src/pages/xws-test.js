@@ -1,8 +1,8 @@
 import React from 'react';
-import { css } from 'theme-ui';
+import { css, Styled } from 'theme-ui';
 import { XWS } from '../gatsby-theme-blog/components/ui';
 
-const data = {
+const FO_LIST = {
   description: '',
   faction: 'firstorder',
   name: 'XWS Test Squad',
@@ -47,13 +47,62 @@ const data = {
   obstacles: ['coreasteroid5', 'gascloud4', 'gascloud5'],
 };
 
+const REBEL_LIST = {
+  description: '',
+  faction: 'rebelalliance',
+  name: 'Unnamed Squadron',
+  pilots: [
+    {
+      id: 'chopper',
+      name: 'chopper',
+      points: 80,
+      ship: 'vcx100lightfreighter',
+      upgrades: {
+        crew: ['zeborrelios', 'sawgerrera'],
+        modification: ['hullupgrade'],
+      },
+    },
+    {
+      id: 'lothalrebel',
+      name: 'lothalrebel',
+      points: 75,
+      ship: 'vcx100lightfreighter',
+      upgrades: { crew: ['k2so'], title: ['ghost'] },
+    },
+    {
+      id: 'ap5',
+      name: 'ap5',
+      points: 45,
+      ship: 'sheathipedeclassshuttle',
+      upgrades: {
+        talent: ['trickshot'],
+        crew: ['leiaorgana'],
+        astromech: ['r4astromech'],
+        title: ['phantom'],
+      },
+    },
+  ],
+  points: 200,
+  vendor: {
+    yasb: {
+      builder: 'Yet Another Squad Builder 2.0',
+      builder_url: 'https://raithos.github.io/',
+      link:
+        'https://raithos.github.io/?f=Rebel%20Alliance&d=v8ZsZ200Z63XWWW65W58W164WWY64XWWW314WWWW148Y72X133W46WW5W167&sn=Unnamed%20Squadron&obs=',
+    },
+  },
+  version: '2.0.0',
+};
+
 const Test = () => (
   <div
     css={css({
       margin: 5,
     })}
   >
-    <XWS list={data} />
+    <Styled.h1>XWS List Test</Styled.h1>
+    <XWS list={FO_LIST} />
+    <XWS list={REBEL_LIST} />
   </div>
 );
 
