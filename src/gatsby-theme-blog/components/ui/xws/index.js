@@ -11,10 +11,12 @@ const Header = ({ children }) => (
   <h5
     css={css({
       display: 'flex',
+      alignItems: 'center',
       justifyContent: 'space-between',
       mt: 0,
       mb: 3,
       fontSize: 4,
+      color: 'primary',
       lineHeight: 1,
     })}
   >
