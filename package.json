@@ -2,19 +2,24 @@
   "name": "here-goes-nothing",
   "private": true,
   "version": "0.0.1",
+  "repository": "github:sebald/here-goes-nothing",
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean && rm -rf node_modules"
+    "clean": "gatsby clean && rm -rf node_modules",
+    "xws": "node scripts/update-xws"
   },
   "license": "0BSD",
   "dependencies": {
     "gatsby": "^2.23.12",
     "gatsby-theme-blog": "^2.0.0",
+    "gatsby-transformer-json": "^2.4.11",
     "react": "^16.12.0",
     "react-cookie-consent": "^5.1.2",
     "react-dom": "^16.12.0",
-    "theme-ui": "0.4.0-alpha.3"
+    "theme-ui": "0.4.0-alpha.3",
+    "write-json-file": "^4.3.0",
+    "xwing-data2": "guidokessels/xwing-data2"
   }
 }

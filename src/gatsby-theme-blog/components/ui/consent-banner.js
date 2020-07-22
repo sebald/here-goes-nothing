@@ -2,7 +2,7 @@ import React from 'react';
 import { useThemeUI } from 'theme-ui';
 import CookieConsent from 'react-cookie-consent';
 
-const ConsentBanner = () => {
+export const ConsentBanner = () => {
   const { theme } = useThemeUI();
   const { space, colors } = theme;
 
@@ -31,5 +31,3 @@ const ConsentBanner = () => {
     </CookieConsent>
   );
 };
-
-export default ConsentBanner;
