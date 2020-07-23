@@ -8,11 +8,17 @@ const red = '#ff1d58';
 const redAccent = '#f75990';
 const yellow = '#fff685';
 const blue = '#0049b7';
-const blueAccent = '00ddff';
+const blueAccent = '#00ddff';
 
 const styles = {
   root: {
     lineHeight: 1.6,
+  },
+  h1: {
+    fontFamily: 'heading',
+  },
+  h2: {
+    fontFamily: 'heading',
   },
 };
 
@@ -36,6 +42,7 @@ export default {
   },
   fonts: {
     body: 'Inter, system-ui, sans-serif',
+    heading: 'Raleway, system-ui, sans-serif',
     monospace: 'Menlo, monospace',
   },
   shadows: {

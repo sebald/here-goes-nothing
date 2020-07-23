@@ -1,7 +1,18 @@
 import React from 'react';
+import { css } from 'theme-ui';
 
 export default function Bio() {
-  return <>A blog about failing to move plastic space ships around a table.</>;
+  return (
+    <span
+      css={css({
+        color: 'grey',
+        fontSize: 1,
+        fontStyle: 'italic',
+      })}
+    >
+      A blog about failing to move plastic space ships around the table.
+    </span>
+  );
 }
 
 /*
