@@ -18,6 +18,10 @@ const Footer = () => (
       Legal Notice
     </Styled.a>
     <> / </>
+    <Styled.a as={Link} to="/privacy">
+      Privacy
+    </Styled.a>
+    <> / </>
     <Styled.a
       href="https://github.com/sebald/here-goes-nothing"
       target="_blank"

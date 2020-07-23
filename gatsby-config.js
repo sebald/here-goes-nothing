@@ -4,7 +4,6 @@ module.exports = {
     {
       resolve: 'gatsby-theme-blog',
       options: {
-        basePath: '/blog',
         webfontURL: 'https://fonts.googleapis.com/css2?family=Inter',
       },
     },
