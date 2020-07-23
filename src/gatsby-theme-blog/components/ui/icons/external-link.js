@@ -1,5 +1,8 @@
 import * as React from 'react';
 
+/**
+ * @param {*} props
+ */
 export const ExternalLink = ({ size = 24, props }) => (
   <svg viewBox="0 0 24 24" width={size} height={size} {...props}>
     <g data-name="external-link">

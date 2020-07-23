@@ -7,6 +7,7 @@ const IMAGE_SIZE = 20;
 const Icon = ({ src }) => (
   <img
     src={src}
+    alt="Ship Icon"
     css={css({
       filter: 'invert(1)',
       paddingRight: 1,
