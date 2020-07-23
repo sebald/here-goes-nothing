@@ -14,7 +14,9 @@ const Footer = () => (
     {` `}
     <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
     <> / </>
-    <Link to="/legal-notice">Legal Notice</Link>
+    <Styled.a as={Link} to="/legal-notice">
+      Legal Notice
+    </Styled.a>
     <> / </>
     <Styled.a
       href="https://github.com/sebald/here-goes-nothing"
