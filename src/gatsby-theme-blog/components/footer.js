@@ -6,11 +6,14 @@ const Footer = () => (
     css={css({
       mt: 4,
       pt: 3,
+      fontSize: 1,
     })}
   >
     © {new Date().getFullYear()}, Powered by
     {` `}
     <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
+    <> / </>
+    <Styled.a href="/legal-notice">Legal Notice</Styled.a>
     <> / </>
     <Styled.a
       href="https://github.com/sebald/here-goes-nothing"
