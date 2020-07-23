@@ -16,7 +16,6 @@ const Header = ({ children }) => (
       mt: 0,
       mb: 3,
       fontSize: 4,
-      color: 'text',
       color: 'primary',
       lineHeight: 1,
     })}
@@ -54,6 +53,7 @@ export const XWS = ({ list }) => {
           target="_blank"
           rel="noopener noreferrer"
           css={css({
+            color: 'text',
             ':hover': {
               color: 'accent',
             },
