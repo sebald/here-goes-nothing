@@ -6,7 +6,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build --prefix-paths",
+    "build": "gatsby build",
     "clean": "gatsby clean && rm -rf node_modules",
     "xws": "node scripts/update-xws"
   },

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 import { Styled, css } from 'theme-ui';
 
 const Footer = () => (
@@ -13,7 +14,7 @@ const Footer = () => (
     {` `}
     <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a>
     <> / </>
-    <Styled.a href="/legal-notice">Legal Notice</Styled.a>
+    <Link to="/legal-notice">Legal Notice</Link>
     <> / </>
     <Styled.a
       href="https://github.com/sebald/here-goes-nothing"
