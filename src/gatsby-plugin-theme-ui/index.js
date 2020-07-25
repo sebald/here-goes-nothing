@@ -20,6 +20,10 @@ const styles = {
   h2: {
     fontFamily: 'heading',
   },
+  img: {
+    display: 'block',
+    m: '0 auto',
+  },
 };
 
 export default {
