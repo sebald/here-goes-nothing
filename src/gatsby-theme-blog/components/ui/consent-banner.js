@@ -9,9 +9,9 @@ export const ConsentBanner = () => {
   return (
     <CookieConsent
       location="bottom"
-      buttonText="Accept 🍪"
+      buttonText="🍪 Accept"
       declineButtonText="Decline"
-      cookieName="constent-cookie"
+      cookieName="hgn-google-analytics"
       style={{
         background: colors.highlight,
         color: colors.text,
@@ -26,8 +26,8 @@ export const ConsentBanner = () => {
         padding: `${space[2]}px ${space[4]}px`,
       }}
     >
-      This site doesn't use any cookies to track you but embeds third party
-      content which does (Twitch).
+      This site uses cookies out of my curiosity to see if people like the
+      content. You won't see personalized ads or the like.
     </CookieConsent>
   );
 };
