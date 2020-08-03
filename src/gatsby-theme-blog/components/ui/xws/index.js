@@ -16,7 +16,6 @@ const Header = ({ children }) => (
       mt: 0,
       mb: 3,
       fontSize: 4,
-      color: 'primary',
       lineHeight: 1,
     })}
   >
@@ -37,10 +36,10 @@ export const XWS = ({ list }) => {
         py: 3,
         px: 3,
         my: 4,
-        bg: 'blank',
-        border: 'soft',
+        borderStyle: 'solid',
+        borderWidth: 2,
+        borderColor: 'grey',
         borderRadius: 2,
-        boxShadow: 'regular',
       })}
     >
       <Header>

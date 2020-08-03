@@ -8,17 +8,11 @@ const red = '#ff1d58';
 const redAccent = '#f75990';
 const yellow = '#fff685';
 const blue = '#0049b7';
-const blueAccent = '#00ddff';
+const blueAccent = '#90bcff';
 
 const styles = {
   root: {
     lineHeight: 1.6,
-  },
-  h1: {
-    fontFamily: 'heading',
-  },
-  h2: {
-    fontFamily: 'heading',
   },
   img: {
     display: 'block',
@@ -51,11 +45,9 @@ export default {
   },
   shadows: {
     none: 0,
-    regular: '0 7px 30px -10px rgba(150,170,180,0.5)',
   },
   border: {
     none: 0,
-    soft: '1px solid rgba(150,170,180,0.1)',
   },
   radii: [0, 2, 4],
   styles,
