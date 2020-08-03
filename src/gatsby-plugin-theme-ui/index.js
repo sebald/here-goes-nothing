@@ -2,6 +2,7 @@ const white = '#fefefe';
 const black = '#2a2a2a';
 
 const blank = '#fff';
+const greyLight = '#fafafa';
 const grey = '#6f6f6f';
 
 const red = '#ff1d58';
@@ -27,6 +28,7 @@ export default {
     black,
     blank,
     grey,
+    greyLight,
 
     text: black,
     heading: blue,

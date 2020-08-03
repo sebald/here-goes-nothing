@@ -36,6 +36,7 @@ export const XWS = ({ list }) => {
         py: 3,
         px: 3,
         my: 4,
+        bg: 'greyLight',
         borderStyle: 'solid',
         borderWidth: 2,
         borderColor: 'grey',
