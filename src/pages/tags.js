@@ -1,5 +1,4 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import { Link, graphql } from 'gatsby';
 import SEO from 'gatsby-theme-blog/src/components/seo';
 import kebabCase from 'lodash/kebabCase';
@@ -9,15 +8,12 @@ import Layout from '../gatsby-theme-blog/components/layout';
 const Tags = ({
   data: {
     allBlogPost: { group },
-    site: {
-      siteMetadata: { title },
-    },
   },
   location,
+  sitTitle,
 }) => (
-  <Layout location={location} title={title}>
-    <Helmet title={title} />
-    <SEO title="Home" />
+  <Layout location={location} title={sitTitle}>
+    <SEO title="Tags" />
     <main>
       <h1>Tags</h1>
       <ul>
