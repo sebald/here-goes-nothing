@@ -1,5 +1,5 @@
 const path = require('path');
-import kebabCase from 'lodash/kebabCase';
+const kebabCase = require('lodash/kebabCase');
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
@@ -16,9 +16,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     }
   `);
 
-  // handle errors
+  // Handle errors
   if (result.errors) {
-    reporter.panicOnBuild(`Error while running GraphQL query.`);
+    reporter.panicOnBuild(`[Tags] Error while running GraphQL query.`);
     return;
   }
 

@@ -1,21 +1,24 @@
 import React from 'react';
-import kebabCase from 'lodash/kebabCase';
-
-// Components
 import { Helmet } from 'react-helmet';
 import { Link, graphql } from 'gatsby';
+import SEO from 'gatsby-theme-blog/src/components/seo';
+import kebabCase from 'lodash/kebabCase';
 
-const TagsPage = ({
+import Layout from '../gatsby-theme-blog/components/layout';
+
+const Tags = ({
   data: {
     allBlogPost: { group },
     site: {
       siteMetadata: { title },
     },
   },
+  location,
 }) => (
-  <div>
+  <Layout location={location} title={title}>
     <Helmet title={title} />
-    <div>
+    <SEO title="Home" />
+    <main>
       <h1>Tags</h1>
       <ul>
         {group.map(tag => (
@@ -26,11 +29,11 @@ const TagsPage = ({
           </li>
         ))}
       </ul>
-    </div>
-  </div>
+    </main>
+  </Layout>
 );
 
-export default TagsPage;
+export default Tags;
 
 export const pageQuery = graphql`
   query {
