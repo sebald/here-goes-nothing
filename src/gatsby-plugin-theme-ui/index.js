@@ -29,6 +29,7 @@ const styles = {
     px: 3,
     '> p': {
       py: 3,
+      lineHeight: '1.8',
     },
   },
 };
