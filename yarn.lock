@@ -14605,8 +14605,8 @@ xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 xwing-data2@guidokessels/xwing-data2:
-  version "1.21.0"
-  resolved "https://codeload.github.com/guidokessels/xwing-data2/tar.gz/6900ce6e01d83b36de85281981101a59b5d4b197"
+  version "1.23.0"
+  resolved "https://codeload.github.com/guidokessels/xwing-data2/tar.gz/9aa09753e7c1ce11d1fc2a44642d679212b5422f"
 
 y18n@^4.0.0:
   version "4.0.0"

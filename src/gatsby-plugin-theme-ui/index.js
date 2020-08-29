@@ -19,6 +19,19 @@ const styles = {
     display: 'block',
     m: '0 auto',
   },
+  blockquote: {
+    fontStyle: 'italic',
+    bg: 'greyLight',
+    borderLeft: '8px solid #eee',
+    my: 4,
+    mx: 3,
+    py: 0,
+    px: 3,
+    '> p': {
+      py: 3,
+      lineHeight: '1.8',
+    },
+  },
 };
 
 export default {

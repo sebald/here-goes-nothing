@@ -308,7 +308,7 @@
 						"fennrau-sheathipedeclassshuttle": {
 							"id": "fennrau-sheathipedeclassshuttle",
 							"name": "Fenn Rau",
-							"image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Pilot_38.png"
+							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/43140025bc61b3e64ef6831987cafb2c.png"
 						}
 					}
 				},
@@ -1001,6 +1001,16 @@
 							"id": "mornakee",
 							"name": "Morna Kee",
 							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/5a913f54447ec375ccc1403769438f81.png"
+						}
+					}
+				},
+				"tierbheavy": {
+					"id": "tierbheavy",
+					"name": "TIE/rb Heavy",
+					"pilots": {
+						"lyttandree": {
+							"id": "lyttandree",
+							"name": "Lyttan Dree"
 						}
 					}
 				}
@@ -2081,6 +2091,16 @@
 							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/be29a69f75726ad48f607eecca671e01.png"
 						}
 					}
+				},
+				"xiclasslightshuttle": {
+					"id": "xiclasslightshuttle",
+					"name": "Xi-Class Light Shuttle",
+					"pilots": {
+						"gideonhask-xiclasslightshuttle": {
+							"id": "gideonhask-xiclasslightshuttle",
+							"name": "Gideon Hask"
+						}
+					}
 				}
 			}
 		},
@@ -2280,7 +2300,7 @@
 						"oddball-btlbywing": {
 							"id": "oddball-btlbywing",
 							"name": "\"Odd Ball\"",
-							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/3b260355bd12266e08ff25ec16d278fe.png"
+							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/8f1d65004c763b48293d1324a49c563a.png"
 						},
 						"matchstick": {
 							"id": "matchstick",
@@ -2295,12 +2315,42 @@
 						"goji": {
 							"id": "goji",
 							"name": "\"Goji\"",
-							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/8ac74252d260a910a7990e6e806aa612.png"
+							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/3b34b6fc25db55b66654d355c7f514eb.png"
 						},
 						"redsquadronbomber": {
 							"id": "redsquadronbomber",
 							"name": "Red Squadron Bomber",
 							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/692a1f1d4b5f5370dad7cacf2f19d699.png"
+						}
+					}
+				},
+				"eta2actis": {
+					"id": "eta2actis",
+					"name": "Eta-2 Actis",
+					"pilots": {
+						"anakinskywalker-eta2actis": {
+							"id": "anakinskywalker-eta2actis",
+							"name": "Anakin Skywalker"
+						}
+					}
+				},
+				"laatigunship": {
+					"id": "laatigunship",
+					"name": "LAAT/i Gunship",
+					"pilots": {
+						"212thbattalionpilot": {
+							"id": "212thbattalionpilot",
+							"name": "212th Battalion Pilot"
+						}
+					}
+				},
+				"nimbusclassvwing": {
+					"id": "nimbusclassvwing",
+					"name": "Nimbus-Class V-Wing",
+					"pilots": {
+						"wilhufftarkin": {
+							"id": "wilhufftarkin",
+							"name": "Wilhuff Tarkin"
 						}
 					}
 				}
@@ -2478,6 +2528,37 @@
 							"id": "petranakiarenaace",
 							"name": "Petranaki Arena Ace",
 							"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/d2d62b6070fdf59b58db79aadb845d54.png"
+						}
+					}
+				},
+				"droidtrifighter": {
+					"id": "droidtrifighter",
+					"name": "Droid Tri-Fighter",
+					"pilots": {
+						"dist81": {
+							"id": "dist81",
+							"name": "DIS-T81"
+						}
+					}
+				},
+				"hmpdroidgunship": {
+					"id": "hmpdroidgunship",
+					"name": "HMP Droid Gunship",
+					"pilots": {
+						"separatistpredator": {
+							"id": "separatistpredator",
+							"name": "Separatist Predator"
+						}
+					}
+				},
+				"firesprayclasspatrolcraft": {
+					"id": "firesprayclasspatrolcraft",
+					"name": "Firespray-class Patrol Craft",
+					"icon": "https://sb-cdn.fantasyflightgames.com/ship_types/I_FIrespray.png",
+					"pilots": {
+						"jangofett": {
+							"id": "jangofett",
+							"name": "Jango Fett"
 						}
 					}
 				}
@@ -2766,7 +2847,7 @@
 		"agentkallus": {
 			"id": "agentkallus",
 			"name": "Agent Kallus",
-			"image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_110.png"
+			"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/5e9b30fb5a437355afd9d17d8700bd9c.png"
 		},
 		"bazemalbus": {
 			"id": "bazemalbus",
@@ -3493,7 +3574,7 @@
 		"staticdischargevanes": {
 			"id": "staticdischargevanes",
 			"name": "Static Discharge Vanes",
-			"image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_76.png"
+			"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/9c42b09b923d60ac8504e52bd0cbaf25.png"
 		},
 		"stealthdevice": {
 			"id": "stealthdevice",
@@ -3583,7 +3664,7 @@
 		"composure": {
 			"id": "composure",
 			"name": "Composure",
-			"image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_156.png"
+			"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/73927eb0dc7bc2bb0de194f1af1dead2.png"
 		},
 		"crackshot": {
 			"id": "crackshot",
@@ -3821,7 +3902,7 @@
 		"landosmillenniumfalcon": {
 			"id": "landosmillenniumfalcon",
 			"name": "Lando's Millennium Falcon",
-			"image": "https://sb-cdn.fantasyflightgames.com/card_images/Card_Upgrade_164.png"
+			"image": "https://sb-cdn.fantasyflightgames.com/card_images/en/96b50606e65bfe308b9e75a03d9a1884.png"
 		},
 		"marauder": {
 			"id": "marauder",
