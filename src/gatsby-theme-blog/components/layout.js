@@ -7,13 +7,15 @@ import Footer from './footer';
 
 const shortcodes = { XWS };
 
+const { NODE_ENV } = process.env;
+
 const Layout = ({ children, ...props }) => (
   <MDXProvider components={shortcodes}>
     <DefaultLayout {...props}>
       {children}
       <Footer />
     </DefaultLayout>
-    <ConsentBanner />
+    {NODE_ENV === 'production' && <ConsentBanner />}
   </MDXProvider>
 );
 
